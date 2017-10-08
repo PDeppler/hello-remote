@@ -1,1 +1,2 @@
 Wprowadzam pierwszy wiersz w przeglądarce
+Drugi wiersz jest wprowadzony lokalnie
